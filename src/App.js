@@ -1,7 +1,6 @@
 import "./App.css";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 import toast, { Toaster } from "react-hot-toast";
-import { useState } from "react";
 
 function App() {
   return (
